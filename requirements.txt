@@ -6,3 +6,4 @@ plotly
 notebook
 dash
 dash-bio==1.0.1
+dash_bootstrap_components
