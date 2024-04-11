@@ -1,4 +1,4 @@
-# Bioinformatics_MOL2022
+# Bioinformatics_MOL3022
 Repository for my project work on the Bioinformatics course MOL 2022 at NTNU, the goal is to provide a better visualization alternative to Jpred4.
 
 ## Installation
