@@ -1,0 +1,8 @@
+# use this file as backup, you should install from environment.yml
+jpredapi
+numpy
+pandas
+plotly
+notebook
+dash
+dash-bio==1.0.1
